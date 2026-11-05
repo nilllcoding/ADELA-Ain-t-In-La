@@ -18,7 +18,7 @@ print()
 
 print(" " * 10 + ORANGE + "== ADÉLA - AIN'T IN LA ==" + RESET)
 
-print(" " * 16 + ORANGE + "Nill_Coding" + RESET)
+print(" " * 16 + ORANGE + "Nama sendiri" + RESET)
 
 print()
 
